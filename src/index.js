@@ -1,0 +1,1 @@
+export default str => str.split('6').reverse().join(''); 
